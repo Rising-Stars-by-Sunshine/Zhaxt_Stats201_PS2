@@ -13,4 +13,5 @@ During the data processing, data in the form of CSV files are downloaded from th
 
 A scatter plot of real values together with a linear plot of prediction will be presented in one figure to test the result visually. In addition, the mean square error is calculated for quantitative evaluation. More days/weeks of x scale may be considered to improve iteratively.
 
+##
 <img src="structure.png" width=1000>
