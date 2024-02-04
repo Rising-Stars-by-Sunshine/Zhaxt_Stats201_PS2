@@ -11,7 +11,7 @@ The data is in type of time series, with stock values as y variable and values o
 ## The Machine Learning Workflow
 During the data processing, data in the form of CSV files are downloaded from the database and read by python. Then the open values of the index are chosen and collected as y variable day by day or week by week. To construct the parameters of the linear regression, values of the previous 21 days / 3 weeks / 21 weeks would be considered as X variables.
 
-A scatter plot of real values together with a linear plot of prediction will be presented in one figure to test the result visually. In addition, the mean square error is calculated for quantitative evaluation. More days/weeks of x scale may be considered to improve iteratively.
+A scatter plot of real values together with a plot of prediction will be presented in one figure to test the result visually. In addition, the mean square error is calculated for quantitative evaluation. More days/weeks of x scale may be considered to improve iteratively.
 
 ##
 <img src="structure.png" width=1000>
