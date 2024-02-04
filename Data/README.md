@@ -5,7 +5,7 @@ Investing.com's Chinese version (cn.investing.com) offers a wide range of stock 
 ## Index: FTSE Chian A50 Index
 The FTSE China A50 Index is a benchmark index that represents the performance of the 50 largest A-share companies listed on the Shanghai and Shenzhen stock exchanges in China. Evaluating the Chinese stock market using the FTSE China A50 Index offers several benefits such as its broad representation and international recognition.
 
-## Data files
+## Data File Parameters
 ### 富时中国A50指数历史数据_Daily.csv
 Frequency: daily
 
