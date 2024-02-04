@@ -26,4 +26,4 @@ File type: csv
 
 ## Reference
 Investing. (2024). Ftse China A50. https://cn.investing.com/indices/ftse-china-a50
-Azure OpenAI. (2024). Duke Kunshan University ChatGPT. Duke Kunshan University ChatGPT
+ChatGPT. (2024). https://chat.openai.com/
